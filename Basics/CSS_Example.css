@@ -1,0 +1,22 @@
+a{
+    color: blue;
+    padding: 5px;
+    font-size: 20px;
+    font-style: oblique;
+    animation-fill-mode: both;
+    }
+body {
+    margin: 25px;
+    background-color: rgb(240,240,240);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+  }
+  
+  /* Applies to all <h1>...</h1> elements. */
+  h1 {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 5px;
+    color: coral;
+    font-style: italic;
+  }
